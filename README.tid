@@ -1,0 +1,15 @@
+created: 20000000000000000
+modified: 20000000000000000
+title: $:/plugins/langston-barrett/N3.js/README
+
+! tw5-n3js
+
+Packaging N3.js for TiddlyWiki 5 with Webpack.
+
+Build:
+
+```bash
+make dist
+```
+
+...and look in `dist/` for the HTML and tar archive output.

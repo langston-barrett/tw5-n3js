@@ -1,0 +1,19 @@
+{
+    "description": "",
+    "plugins": [
+        "tiddlywiki/tiddlyweb",
+        "tiddlywiki/filesystem",
+        "langston-barrett/N3.js"
+    ],
+    "themes": [ "tiddlywiki/vanilla" ],
+    "build": {
+        "index": [
+            "--output",
+            "../../../dist",
+            "--rendertiddler",
+            "$:/plugins/tiddlywiki/tiddlyweb/save/offline",
+            "dist.html",
+            "text/plain"
+        ]
+    }
+}

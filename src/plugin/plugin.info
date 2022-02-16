@@ -1,0 +1,9 @@
+{
+    "title": "$:/plugins/langston-barrett/N3.js",
+    "description": "Package N3.js as a TiddlyWiki library plugin",
+    "author": "Langston Barrett",
+    "version": "0.1.0",
+    "core-version": ">=5.0.0",
+    "plugin-type": "plugin",
+    "source": "https://github.com/langston-barrett/tw5-n3js"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "tiddlywiki-n3js",
+  "version": "0.1.0",
+  "description": "",
+  "private": true,
+  "scripts": {},
+  "keywords": [],
+  "author": "Langston Barrett",
+  "license": "MIT",
+  "dependencies": {
+    "N3.js": "file:./N3.js"
+  },
+  "devDependencies": {
+    "jq": "^1.7.2",
+    "tiddlywiki": "^5.2.1",
+    "webpack": "^5.68.0",
+    "webpack-cli": "^4.9.2"
+  }
+}
